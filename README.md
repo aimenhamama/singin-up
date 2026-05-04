@@ -11,6 +11,6 @@ A professional and responsive authentication UI component featuring Sign-in, Sig
 ## Tech Stack
 - **HTML:** Structured for accessibility and form validation.
 - **CSS:** Advanced flexbox/grid layouts, custom properties, and animations.
-   
+
 ## Preview
 ![Interface Preview](login-preview.png)
